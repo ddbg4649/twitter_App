@@ -25,4 +25,3 @@
     <a href="/posts">Back</a>
 
 @endsection
-<a href="/posts/{{ $post->id }}/edit">編集</a>
